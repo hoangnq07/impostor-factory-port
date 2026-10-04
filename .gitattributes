@@ -1,0 +1,27 @@
+* text=auto eol=lf
+*.sh text eol=lf
+*.gptk text eol=lf
+*.conf text eol=lf
+*.ini text eol=lf
+*.rb text eol=lf
+*.lua text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+# Binaries
+*.bin binary
+*.so binary
+*.so.* binary
+*.aarch64 binary
+*.ttf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ogg binary
+*.wav binary
+*.rxdata binary
+*.rgssad binary
+*.exe binary
+*.dll binary

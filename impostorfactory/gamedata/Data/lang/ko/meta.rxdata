@@ -1,0 +1,3 @@
+{:scene_end_exitI"게임 종료:ET:scene_end_cancelI"취소;T:tif_menu{:
+mouseI"마우스;T:mouse_enabledI"작동;T:mouse_disabledI"비활성화;T:cursorI"Mouse cursor;T:cursor_largeI"
+Large;T:cursor_normalI"Normal;T:fullscreenI"전체 화면;T:fullscreen_yesI"예;T:fullscreen_noI"아니요;T:scene_save_titleI"/어느 파일에 저장하시겠습니까?;T:scene_load_titleI"/어느 파일을 불러오시겠습니까?;T:window_savefile_autosaveI"자동 저장;T:window_savefile_fileI"파일 @<idx>;T:lang_name_nativeI"한국말;T:font_menuI"NanumBarunGothic;T:font_speechI"NanumBarunGothic;T

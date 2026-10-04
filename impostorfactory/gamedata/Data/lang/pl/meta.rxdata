@@ -1,0 +1,3 @@
+{:scene_end_exitI"Wyjdź z gry:ET:scene_end_cancelI"Anuluj;T:tif_menu{:
+mouseI"	Mysz;T:mouse_enabledI"Włączona;T:mouse_disabledI"Wyłączona;T:cursorI"Kursor;T:cursor_largeI"
+Duży;T:cursor_normalI"Normalny;T:fullscreenI"Pełny ekran;T:fullscreen_yesI"Tak;T:fullscreen_noI"Nie;T:scene_save_titleI"$Gdzie chcesz zapisać stan gry?;T:scene_load_titleI"%Który stan gry chcesz wczytać?;T:window_savefile_autosaveI"Autozapis;T:window_savefile_fileI"Plik@<idx>;T:lang_name_nativeI"polski;T

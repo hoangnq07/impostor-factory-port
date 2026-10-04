@@ -1,0 +1,40 @@
+"Impostor Factory" was made with RPG Maker XP and runs
+on mkxp written by Amaryllis Kulla and licensed under GPL2+.
+
+The used source code for mkxp (sans Steam integration) is at
+http://github.com/ancurio/mkxp-freebird
+
+mkxp uses the following other open source packages:
+
+Licensed under the GPL 2
+WenQuanYi - http://wenq.org/wqy2/index.cgi
+
+Licensed under the LGPL 2.1
+libSigC++ - http://libsigc.sourceforge.net/
+SDL_sound - http://icculus.org/SDL_sound/
+
+Licensed under the FTL
+freetype - http://www.freetype.org/
+
+Licensed under the Xiph license
+libogg - http://xiph.org/
+libvorbis - http://xiph.org/
+
+Licensed under ZLIB
+libpng - ZLIB - http://libpng.org/pub/png/
+
+Licensed under the SDL License
+SDL 2.0 - http://libsdl.org/
+SDL_image 2.0 - http://libsdl.org/projects/SDL_image/
+SDL_ttf 2.0 - http://libsdl.org/projects/SDL_ttf/
+
+Licensed under the BSD
+physfs - http://icculus.org/physfs/
+Ruby 2.1 - http://ruby-lang.org/
+
+Licensed under the MIT license
+pixman - http://pixman.org/
+
+Licensed under the SIL Open Font License
+Liberation Sans - https://fedorahosted.org/liberation-fonts/
+Nanum Barun Gothic - https://hiun.org/NanumBarunGothic/

@@ -1,0 +1,2 @@
+{:scene_end_exitI"退出游戏:ET:scene_end_cancelI"取消;T:tif_menu{:
+mouseI"鼠标;T:mouse_enabledI"启用;T:mouse_disabledI"禁用;T:cursorI"鼠标大小;T:cursor_largeI"大;T:cursor_normalI"普通;T:fullscreenI"全屏;T:fullscreen_yesI"是;T:fullscreen_noI"否;T:scene_save_titleI" 你要保存哪个存档？;T:scene_load_titleI" 你要读取哪个存档？;T:window_savefile_autosaveI"自动存档;T:window_savefile_fileI"存档@<idx>;T:lang_name_nativeI"中文 (简体);T:font_menuI"WenQuanYi Zen Hei;T:font_speechI"WenQuanYi Zen Hei;T

@@ -1,0 +1,3 @@
+{:scene_end_exitI"Вийти з гри:ET:scene_end_cancelI"Скасувати;T:tif_menu{:
+mouseI"Мишка;T:mouse_enabledI"Увімкнено;T:mouse_disabledI"Вимкнено;T:cursorI"Mouse cursor;T:cursor_largeI"
+Large;T:cursor_normalI"Normal;T:fullscreenI"На весь екран;T:fullscreen_yesI"Так;T:fullscreen_noI"	Ні;T:scene_save_titleI"@До якого файлу бажаєте зберегти?;T:scene_load_titleI"=Який файл бажаєте завантажити?;T:window_savefile_autosaveI"!Автозбереження;T:window_savefile_fileI"Файл @<idx>;T:lang_name_nativeI"Українська;T:font_speech_sizei

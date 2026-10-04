@@ -1,0 +1,3 @@
+{:scene_end_exitI"Salir del juego:ET:scene_end_cancelI"Cancelar;T:tif_menu{:
+mouseI"Ratón;T:mouse_enabledI"Activado;T:mouse_disabledI"Desactivado;T:cursorI"Mouse cursor;T:cursor_largeI"
+Large;T:cursor_normalI"Normal;T:fullscreenI"Pantalla completa;T:fullscreen_yesI"Sí;T:fullscreen_noI"No;T:scene_save_titleI"'¿En qué archivo quieres guardar?;T:scene_load_titleI"#¿Qué archivo quieres cargar?;T:window_savefile_autosaveI"Autoguardado;T:window_savefile_fileI"Archivo @<idx>;T:lang_name_nativeI"español;T:font_speech_sizei

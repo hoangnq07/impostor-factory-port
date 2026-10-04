@@ -1,0 +1,38 @@
+
+
+
+
+space of 32 above [REDACTED: ACCOUNT FOR THIS]
+
+total height of 384
+
+[352]
+
+each cycle: 96 pixels
+
+
+start off exactly 30 down
+
+
+
+start off: 
+
+12: 62
+13: -322
+
+to next crop state:
+12: 128
+13: -256
+
+224
+-160
+
+320
+-64
+
+(show @ 448, to:) -352
+32
+
+
+
+
